@@ -2,7 +2,6 @@
 
 🌱 Currently learning:
 - Flutter & Dart
-- Unity & C#
 - Backend with Node.js & Firebase
 
 
