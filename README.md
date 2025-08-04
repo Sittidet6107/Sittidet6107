@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sittidet Chaihuaiha!
 
-### 🌱 Currently learning:
+### Currently learning:
 - Flutter & Dart
 - Backend with Node.js & Firebase
 
@@ -10,7 +10,7 @@
 [Application for marking points to define the transmission zone of an epidemic](https://github.com/nongbank15789/Application_for_marking_points_to_define_the_transmission_zone_of_an_epidemic)
 
 
-### 🔧 Skills
+### Skills
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -20,5 +20,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-### 📫 Contact:
+### Contact:
 - Email: sitidet135@gmail.com
